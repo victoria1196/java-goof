@@ -3,14 +3,16 @@
 	        <groupId>org.apache.commons</groupId>
 	        <artifactId>commons-lang3</artifactId>
 	        <version>3.21.0</version>
-	    </depende
+	    </dependency>
+	
+	    <!-- LGPL test candidate -->
 	    <dependency>
 	        <groupId>org.xwiki.commons</groupId>
 	        <artifactId>xwiki-commons-diff-script</artifactId>
 	        <version>17.10.15</version>
 	    </dependency>
 	
-	    <!-- GPL test candidate -->
+	    <!-- GPL test candidate 2-->
 	    <dependency>
 	        <groupId>me.proton.core</groupId>
 	        <artifactId>auth-data</artifactId>
